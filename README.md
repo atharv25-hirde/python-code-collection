@@ -37,7 +37,7 @@ The main goal of this repository is to:
 2. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/atharv25-hirde/python-code-collection
    ```
 
 3. Navigate to the repository folder.
