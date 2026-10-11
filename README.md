@@ -5,7 +5,7 @@ Welcome to my Python Programs repository!
 
 This repository contains Python programs that I write while learning and practicing Python. It includes basic concepts, coding exercises, and small programs to improve my programming skills.
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Python Basics
 - Variables and Data Types
@@ -18,7 +18,7 @@ This repository contains Python programs that I write while learning and practic
 - Object-Oriented Programming (OOP)
 - Problem-Solving Exercises
 
-## 🎯 Purpose
+##  Purpose
 
 The main goal of this repository is to:
 - Practice Python programming regularly.
@@ -26,12 +26,12 @@ The main goal of this repository is to:
 - Track my learning progress.
 - Build a collection of useful Python programs.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** Python 3
 - **Editor:** VS Code
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install Python 3 on your computer.
 2. Clone this repository:
@@ -47,7 +47,7 @@ The main goal of this repository is to:
    python filename.py
    ```
 
-## 📈 Progress
+##  Progress
 
 This repository will be updated as I learn new concepts and write more Python programs.
 
